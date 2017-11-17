@@ -1,4 +1,4 @@
-# google-login-php
+# google-login-in php
 How can you social login in php, How can you use google plus login in your website 
 It is very simple to integrate google plus login registration in our website
 
