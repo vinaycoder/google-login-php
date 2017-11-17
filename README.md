@@ -10,7 +10,7 @@ It is very simple to integrate google plus login registration in our website
 5) create your client id 
 6) if not understand please visit this link for create google client id  https://ga2sw.github.io/ga.html
 
-#Step 2
+# Step 2
 1) Download all file from this.
 2) Paste this into htdocs folder name as google (because i am using this path in google projects)
 3) Then hit this link in you browser
